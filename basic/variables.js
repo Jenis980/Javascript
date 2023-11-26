@@ -1,7 +1,7 @@
 const userId = 0001
 let userName = "James Gee"
 var userEmail = "jamesG@gmail.com"
-userAddress = "Toronto"
+userAddress = "Toronto" // this kind of variable declaration is possible but not suggest to do
 
 // lets change value to investigate study
 // userId = 0002 // not possible 
